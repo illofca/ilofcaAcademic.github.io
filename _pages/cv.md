@@ -19,12 +19,7 @@ B.A. in Criminal Justice and Security, Turkish National Police University (TNPU)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* 2022-Current	Clinical Assistant Professor
+* 2022-Current	Clinical Assistant Professor of Information Science
   * University of North Carolina Greensboro
 
 * 2021-2022	Visiting Professor
