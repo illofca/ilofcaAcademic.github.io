@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Professional and Academic Background"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Izzet Lofca has an extensive experience in policing, law, international relations, IT management, and public relations and press. He served several middle and upper management ranks of TNP specializing in foreign relations, state security and mobs, and passports and documents. He served as security advisor to higher officials before his career change in academia. Alongside practising in the field, he also joined many national and international conferences, service trainings and programs like UN Trainer of Trainers Workshop; Marshal Center PTSS, and Executive Seminar; NESA Center, and many others.
 
-Dr. Lofca as an academic served at TNP University, and Sakarya University before joining to Information, Library and Research Sciences (ILRS) Department's Bachelor of Science in Information Science (BSIS) Program at University of North Carolina Greensboro (UNCG). Last 5 years he teaches both at BSIS program and Master of Library and Information Science (MLIS) program. His area of teaching falls under foundational information science courses as well as IT, and emerging technology courses.
+Dr. Lofca as an academic served at TNP University, and Sakarya University before joining to Information, Library and Research Sciences [(ILRS)](https://soe.uncg.edu/ilrs/) Department's Bachelor of Science in Information Science (BSIS) Program at University of North Carolina Greensboro (UNCG). Last 5 years he teaches both at BSIS program and Master of Library and Information Science (MLIS) program. His area of teaching falls under foundational information science courses as well as IT, and emerging technology, and structured intelligence courses.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
