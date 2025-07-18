@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Science, University of North Texas (UNT), 2007
+* M.S. in Criminal Justice, University of North Texas (UNT), 2002
+* M.S. in Forensic Science , Ankara University (AU), 1999
+* B.A. in Law, Ankara University (AU), 1995
+B.A. in Criminal Justice and Security, Turkish National Police University (TNPU), 1991
 
 Work experience
 ======
@@ -22,15 +24,74 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-Current	Clinical Assistant Professor
+  * University of North Carolina Greensboro
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022	Visiting Professor
+  * University of North Carolina Greensboro
+
+* 2020-2021	Part Time Faculty
+  * University of North Carolina Greensboro
+
+* 2015 – 2016	Associate Professor
+  * Sakarya University, Sakarya, Turkey 
+    * Department of Political Sciences and Public Administration
+
+* 2014 –2015	Associate Professor
+  * TNPU, Ankara, Turkey 
+    * School of Security Sciences
+
+* 2012 –2014	Founding Deputy Director
+  * TNPU, Ankara, Turkey 
+    * Institute of Forensic Sciences
+
+* 2010 –2012	Instructor
+  * TNPU, Ankara, Turkey
+    * School of Security Sciences
+
+* 2010 –2013	Chief of Foreign Relations Department
+  * TNPU, Ankara, Turkey 
+    * In Charge of Digital Library
+
+* 2011 ERASMUS Teaching Exchange Activity, Police Ethics 
+   * Slovenia Maribor University 
+    * Criminal Justice Department
+
+* 2007 –2010	Governorship of Kahramanmaras, Turkey
+  * Security Advisor to the Governor
+  * Governorship Press and Public Relations Director
+  * Head of Governorship European Union Projects Coordination Office
+  * Head of IT Department
+
+* 2003-2007	Deputy Director of Turkish Institute for Police Studies (TIPS) for Technology Improvement
+  * University of North Texas
+
+* 2005 – 2006	Teaching Assistant
+  * University of North Texas
+    * College of Information, Department of Information Sciences
+
+* 2002 – 2003	Director of Homeland Security Department
+  * Kahramanmaras Police Department
+
+* 1999 – 2000	Chief of Bureaus - Ankara, Turkey 
+  * Turkish National Police (TNP) HQ, Foreign Relations Department
+  * America, Africa, Asia, and Turkic Republics Section
+
+* 1998 – 1999	Civilian Police (CivPol) Monitor - Breza Station 
+  * United Nations Mission in Bosnia and Herzegovina (UNMIBH)
+  * Chief of Digital Communications
+
+* 1998	Bureau Chief - Ankara, Turkey
+   TNP-HQ, Anti-Terrorism Department Psychological Operations
+
+* 1991-1997	Supervisor, Bureau(s) Chief - Ankara, Turkey 
+   Ankara PD Esenboga International Airport Immigration & Passport Control Bureau
+    * VIP Bureau
+    * IT and DB Operations
+
+* 1987 – 1991	Police Officer & Cadet - Ankara, Turkey 
+  * TNPU, School of Security Sciences
+
   
 Skills
 ======
