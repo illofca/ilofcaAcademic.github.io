@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Izzet Lofca / Academic"
+title                    : "Izzet Lofca"
 title_separator          : "-"
 name                     : &name "Izzet Lofca"
 description              : &description "Academic"
