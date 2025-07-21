@@ -7,7 +7,7 @@ excerpt: 'This paper is new developments in police training.'
 date: 2012-10-01
 venue: 'Turkish National Police University Publications'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/BalpekKitap.pdf'
+paperurl: 'https://github.com/illofca/ilofcaAcademic.github.io/blob/master/files/BalpekKitap.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Lofca, I., & Ozgenturk, I. (Eds). (2012), Contemporary Issues in Police Training, Turkish National Police University Publications, Ankara'
 ---
