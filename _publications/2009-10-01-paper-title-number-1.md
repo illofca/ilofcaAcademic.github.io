@@ -11,7 +11,9 @@ paperurl: 'http://academicpages.github.io/files/BalpekKitap.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Lofca, I., & Ozgenturk, I. (Eds). (2012), Contemporary Issues in Police Training, Turkish National Police University Publications, Ankara'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This Book is a product of international police cooperation. The articles in this book are based on the presentations during the First Balkan Countries Police Training Conference that was held in Nazilli, Aydın, TURKEY with the facilititation of Nazilli Police Vocational School of Higher Education on April 26-27, 2011. The aim of this Conference was to bring together experienced scholars and police practicionars to talk on police training issues and to support international police cooperation. This Conference responded to the international police cooperation needs of Balkan Countries.
+
+As it was planned, distinguished academicians, police trainers, police chiefs and officers attended the Conference from many Balkan Countries such as Croatia, Macedonia, Bosnia-Herzegovina, Albania, Kosovo, Montenegro, Bulgaria and Turkey. During the two-day Conference, participants presented very important topics and issues about the police training. The delivered articles were about the importance of police training, police candidate selection criteria, police training comparison between countries, the police communication skills, domestic violence training, police psychological tests and so on. Moreover, very crucial problems of the police training were discussed from a practical police perspective in an academic environment. We convinced that the Conference was a great success and very beneficial for all parties.
 
 # Title
 
